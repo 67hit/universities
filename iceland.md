@@ -1,11 +1,12 @@
-* [List of universities in Iceland - Wikipedia](https://en.wikipedia.org/wiki/List_of_universities_in_Iceland)
+# General
+- [List of universities in Iceland - Wikipedia](https://en.wikipedia.org/wiki/List_of_universities_in_Iceland)
+
+# Maybe?
 
 ## [Bifröst University](https://www.bifrost.is/english)
 - Buisiness, Law and Social Science departments
 - most education is conducted in Icelandic
 
-## [Hólar University](https://www.holar.is/en)
-- Aquaculture, Equine, Tourism only
 
 ## [Reykjavik University](https://en.ru.is/) (private)
 - School of Technology
@@ -19,5 +20,7 @@
   - https://iris.rais.is/en/persons/gylfi-zoega
   
 # Unlikely
+- [Hólar University](https://www.holar.is/en)
+  - Aquaculture, Equine, Tourism only
 - [Iceland University of the Arts](https://www.lhi.is/) ([Wikipedia](https://en.wikipedia.org/wiki/Iceland_University_of_the_Arts))
 - [Agricultural University of Iceland](https://www.lbhi.is/) ([Wikipedia](https://en.wikipedia.org/wiki/Agricultural_University_of_Iceland))
