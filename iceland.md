@@ -1,12 +1,13 @@
 # General
 - [List of universities in Iceland - Wikipedia](https://en.wikipedia.org/wiki/List_of_universities_in_Iceland)
 
-# Maybe?
+# Maybe
 
 ## [Reykjavik University](https://en.ru.is/) (private)
 - School of Technology
 - School of Social Sciences
 - [Faculty and staff - Reykjavik University](https://en.ru.is/the-university/faculty-and-staff/)
+- [School of Social Sciences / Department of Business and Economics](https://en.ru.is/sss/db/)
 - [Open positions](https://jobs.50skills.com/ru/en)
 
 ## Others
