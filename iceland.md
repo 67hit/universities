@@ -7,7 +7,6 @@
 - Buisiness, Law and Social Science departments
 - most education is conducted in Icelandic
 
-
 ## [Reykjavik University](https://en.ru.is/) (private)
 - School of Technology
 - School of Social Sciences
@@ -15,7 +14,6 @@
 - [Open positions](https://jobs.50skills.com/ru/en)
 
 ## Others
-- [University of Akureyri](https://www.unak.is/english) (public)
 - [University of Iceland](https://english.hi.is/) (public)
   - https://iris.rais.is/en/persons/gylfi-zoega
   
@@ -24,3 +22,6 @@
   - Aquaculture, Equine, Tourism only
 - [Iceland University of the Arts](https://www.lhi.is/) ([Wikipedia](https://en.wikipedia.org/wiki/Iceland_University_of_the_Arts))
 - [Agricultural University of Iceland](https://www.lbhi.is/) ([Wikipedia](https://en.wikipedia.org/wiki/Agricultural_University_of_Iceland))
+- [University of Akureyri](https://www.unak.is/english) (public)
+  - Most undergrad education is [in English](https://www.unak.is/english/study/education/degree-seeking-students).\
+  - Unlikely to be relevant in English: [Natural Resource Sciences](https://www.unak.is/english/study/education/degree-seeking-students/natural-resource-sciences)
