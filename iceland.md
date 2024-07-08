@@ -17,3 +17,7 @@
 - [University of Akureyri](https://www.unak.is/english) (public)
 - [University of Iceland](https://english.hi.is/) (public)
   - https://iris.rais.is/en/persons/gylfi-zoega
+  
+# Unlikely
+- [Iceland University of the Arts](https://www.lhi.is/) ([Wikipedia](https://en.wikipedia.org/wiki/Iceland_University_of_the_Arts))
+- [Agricultural University of Iceland](https://www.lbhi.is/) ([Wikipedia](https://en.wikipedia.org/wiki/Agricultural_University_of_Iceland))
