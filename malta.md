@@ -1,0 +1,1 @@
+* [List of universities in Malta](https://en.wikipedia.org/wiki/List_of_universities_in_Malta) (Wikipedia)
