@@ -6,7 +6,7 @@
 
 ## [London School of Commerce](https://www.lscmalta.edu.mt/)
 - [MBA Faculty](https://www.lscmalta.edu.mt/lsc-malta-academics)
-- [Why not study in malta? - YouTube ](https://www.youtube.com/watch?v=nFWP2YDIDDc)
+- [Why not study in Malta? - YouTube ](https://www.youtube.com/watch?v=nFWP2YDIDDc)
   
 ## [AUM Malta - The America University of Malta](https://www.aum.edu.mt/)
 - [Faculty](https://www.aum.edu.mt/academics/faculty/)
