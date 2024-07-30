@@ -31,5 +31,5 @@
   - Most undergrad education is [in English](https://www.unak.is/english/study/education/degree-seeking-students).
   - Unlikely to be relevant, but in English: [Natural Resource Sciences](https://www.unak.is/english/study/education/degree-seeking-students/natural-resource-sciences)
 - [Bifröst University](https://www.bifrost.is/english)
-  - Buisiness, Law and Social Science departments
+  - Two departments: [Dept of Buisiness and Dept. of Social Science and Law](https://www.bifrost.is/english/about-bifrost/organisation-and-administration/governance/academic-departments)
   - most education is conducted in [Icelandic](https://www.bifrost.is/english/study)
