@@ -4,13 +4,15 @@
 # Maybe
 
 ## [Reykjavik University](https://en.ru.is/) (private)
+- [School of Social Sciences / Department of Business and Economics](https://en.ru.is/sss/db/)
+  - [Director of BSc Programme in Business and Economics](https://myschool.ru.is/myschool2/public/default.aspx?Page=Emp&Dept=2&Alph=&Pos=&View=1&Lang=1&ID=bryndisasb)
+  - [MBA Director](https://myschool.ru.is/myschool2/public/default.aspx?Page=Emp&Dept=2&Alph=&Pos=&View=1&Lang=1&ID=aldisg)
+
 - School of Technology
 - School of Social Sciences
 - [Faculty and staff - Reykjavik University](https://en.ru.is/the-university/faculty-and-staff/)
-- [School of Social Sciences / Department of Business and Economics](https://en.ru.is/sss/db/)
 - [Open positions](https://jobs.50skills.com/ru/en)
-- [Director of BSc Programme in Business and Economics](https://myschool.ru.is/myschool2/public/default.aspx?Page=Emp&Dept=2&Alph=&Pos=&View=1&Lang=1&ID=bryndisasb)
-- [MBA Director](https://myschool.ru.is/myschool2/public/default.aspx?Page=Emp&Dept=2&Alph=&Pos=&View=1&Lang=1&ID=aldisg)
+- 
 ## Others
 - [University of Iceland](https://english.hi.is/) (public)
   - https://iris.rais.is/en/persons/gylfi-zoega
