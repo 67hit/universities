@@ -15,10 +15,12 @@
 - [Open positions](https://jobs.50skills.com/ru/en)
 
 ## [University of Iceland](https://english.hi.is/) (public)
-- https://iris.rais.is/en/persons/gylfi-zoega
-- [Head of Economics](https://english.hi.is/school_of_social_sciences/faculty_of_economics/staff)
-- [School of Social Sciences](https://english.hi.is/school_of_social_sciences)
+### [School of Social Sciences](https://english.hi.is/school_of_social_sciences)
 - [Head of Business](https://english.hi.is/school_of_social_sciences_faculty_of_business_administration/administration_and_staff)
+- [Head of Economics](https://english.hi.is/school_of_social_sciences/faculty_of_economics/staff)
+
+### General
+- https://iris.rais.is/en/persons/gylfi-zoega
 
 # Unlikely
 - [Hólar University](https://www.holar.is/en)
