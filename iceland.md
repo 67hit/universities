@@ -9,8 +9,8 @@
 - [MBA Director](https://myschool.ru.is/myschool2/public/default.aspx?Page=Emp&Dept=2&Alph=&Pos=&View=1&Lang=1&ID=aldisg)
 
 ### General
-- [School of Technology](https://en.ru.is/st/
-- School of Social Sciences
+- [School of Technology](https://en.ru.is/st/)
+- [School of Social Sciences](https://en.ru.is/sss/)
 - [Faculty and staff - Reykjavik University](https://en.ru.is/the-university/faculty-and-staff/)
 - [Open positions](https://jobs.50skills.com/ru/en)
 
