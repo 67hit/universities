@@ -18,6 +18,8 @@
   
 ## [Global College Malta](https://gcm.edu.mt/)
 
+- [Members of the faculty](https://gcm.edu.mt/faculties/)
+
 # Maybe?
 
 ## [London School of Commerce](https://www.lscmalta.edu.mt/)
