@@ -19,9 +19,10 @@
 - [Head of Business](https://english.hi.is/school_of_social_sciences_faculty_of_business_administration/administration_and_staff)
 - [Head of Economics](https://english.hi.is/school_of_social_sciences/faculty_of_economics/staff)
 
-### Departments (Faculties)
-- [Faculties](https://english.hi.is/university/faculties_from_a_z)
-- [Staff of Physical Sciences](https://english.hi.is/school_of_engineering_and_natural_sciences_faculty_of_physical_sciences/administration_and_staff_at) including department heads
+### Departments
+- [Departments](https://english.hi.is/university/faculties_from_a_z)
+  - [Staff of Physical Sciences](https://english.hi.is/school_of_engineering_and_natural_sciences_faculty_of_physical_sciences/administration_and_staff_at) including department heads
+    - [Ádám Dávid Timár](https://english.hi.is/staff/adamd) gyanúsan magyar prof a matek tanszéken
 
 ### General
 - https://iris.rais.is/en/persons/gylfi-zoega
