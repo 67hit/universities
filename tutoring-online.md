@@ -1,6 +1,6 @@
 ## Seems to be Europe based
 * [GoStudent](https://www.gostudent.org/en-gb/) Vienna - startup
-* [https://yourpersonalprofessor.org] Norway - startup
+* [Your Personal Professor](https://yourpersonalprofessor.org) Norway - startup
   * [Become a tutor](https://yourpersonalprofessor.org/become-a-tutor/)
 
 ## Not available in Hungary
