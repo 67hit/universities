@@ -1,6 +1,7 @@
 ## Seems to be Europe based
 * [GoStudent](https://www.gostudent.org/en-gb/) Vienna - startup
-  - [](images/gostudent1.png)
+![](images/gostudent1.png)
+
 * [Your Personal Professor](https://yourpersonalprofessor.org) Norway - startup
   * [Become a tutor](https://yourpersonalprofessor.org/become-a-tutor/)
 
