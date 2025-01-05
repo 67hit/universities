@@ -3,6 +3,10 @@
 ![](images/gostudent1.png)
   - [Sign-up as tutor](https://www.gostudent.org/en-gb/apply-tutor/)
 
+- [Private tutoring - Private tutors and lessons in the USA](https://www.superprof.com/)
+  - [Superprof](https://www.super-prof.hu/maganorat-adni/) - Magyarországi verzió 
+  - Úgy tűnik, itt a diák direktbe fizeti a tutor-t
+  
 - [Your Personal Professor](https://yourpersonalprofessor.org) Norway - startup
   - [Become a tutor](https://yourpersonalprofessor.org/become-a-tutor/)
 
