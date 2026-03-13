@@ -1,3 +1,5 @@
+https://chatgpt.com/share/69b3060f-ec00-800a-b079-0b87b1362825
+
 # What is the average hourly price of management consulting in Hungary?
 
 The **average hourly price for management consulting in Hungary** varies a lot depending on whether you look at **freelancers, boutique firms, or large consulting firms**. But typical market ranges can be summarized fairly well.
