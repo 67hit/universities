@@ -1,3 +1,5 @@
+https://claude.ai/share/b32db2e3-6db7-429d-b366-3269246c92d7
+
 # What is the average hourly price of management consulting in Hungary?
 
 Let me search for current data on management consulting rates in Hungary.It's important to distinguish between two different metrics here: the **employee salary equivalent** (what a consultant earns as an employee) versus the **client-facing billing rate** (what a consulting firm charges clients per hour). Here's what the data shows for Hungary:
