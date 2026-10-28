@@ -1,3 +1,6 @@
-- [Semmelweis University :: Department of Biophysics and Radiation Biology :: Education](https://biofiz.semmelweis.hu/index.php?p=oktatas&mid=2)\
+- [Semmelweis University :: Department of Biophysics and Radiation Biology :: Education](https://biofiz.semmelweis.hu/index.php?p=oktatas&mid=2)
   - [Medical biophysics 1.](https://biofiz.semmelweis.hu/index.php?p=oktatas&mid=2&a=tantargy&id=608)
   - [Medical biophysics  2.](https://biofiz.semmelweis.hu/index.php?p=oktatas&mid=2&a=tantargy&id=590)
+----
+- Head of the Department: Miklós KELLERMAYER
+- Departmental Curricular Offical: Daniel VERES (daniel.s.veres@gmail.com)  
