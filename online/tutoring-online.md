@@ -1,6 +1,6 @@
 ## Seems to be Europe based
 - [GoStudent](https://www.gostudent.org/en-gb/) Vienna - startup
-![](images/gostudent1.png)
+![](_images/gostudent1.png)
   - [Sign-up as tutor](https://www.gostudent.org/en-gb/apply-tutor/)
 
 - [SuperProf](https://www.superprof.com/) - Private tutors and lessons in the USA
