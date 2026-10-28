@@ -1,0 +1,2 @@
+- [Engineering](https://international.pte.hu/admission/study-programs/engineering)
+  - [BSc in Mechanical Engineering](https://international.pte.hu/study-programs/bsc-mechanical-engineering)
