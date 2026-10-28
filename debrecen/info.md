@@ -1,5 +1,6 @@
 ## General
 
+- [Repülőmérnöki alapképzési szak - Műszaki Kar](https://eng.unideb.hu/repulomernoki-alapkepzesi-szak)
 - [Tantárgyleírások - Műszaki Alaptárgyi Tanszék (MK)](https://mat.unideb.hu/tantargyleirasok)
 
 ## Mathematics
