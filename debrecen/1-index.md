@@ -1,4 +1,4 @@
-There is a department called "Műszaki Alaptárgyi Tanszék", I suppose they are responsible for teaching the basic math and physics to everybody.  Below (and in the documents folder) you will find the syllabi and the people responsible for managing specific courses.  Those are the ones to be contacted directly.
+There is a department called "Műszaki Alaptárgyi Tanszék", I suppose they are responsible for teaching the basic math and physics to everybody.  Below, under "Tantárgy felelősök", (and in the documents folder) you will find the syllabi and the people responsible for managing specific courses.  Those are the ones to be contacted directly.
 
 ## General
 - [Bachelor programs - University of Debrecen](https://edu.unideb.hu/p/bachelor-programs)) - in English, most need math & physics
