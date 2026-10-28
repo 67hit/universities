@@ -3,9 +3,9 @@ There is a department called "Műszaki Alaptárgyi Tanszék", I suppose they are
 ## General
 - [Bachelor programs - University of Debrecen](https://edu.unideb.hu/p/bachelor-programs)) - in English, most need math & physics
   - [Repülőmérnöki alapképzési szak - Műszaki Kar](https://eng.unideb.hu/repulomernoki-alapkepzesi-szak)
-- [Tantárgyleírások - Műszaki Alaptárgyi Tanszék (MK)](https://mat.unideb.hu/tantargyleirasok)
+- [Tantárgyleírások - Műszaki Alaptárgyi Tanszék (MK)](https://mat.unideb.hu/tantargyleirasok) $\leftarrow$ **USEFUL**
   - See syllabi in the documents folder!
-  - [Tantárgy felelősök - Műszaki Alaptárgyi Tanszék (MK)](https://mat.unideb.hu/tantargy-felelosok)
+  - [Tantárgy felelősök - Műszaki Alaptárgyi Tanszék (MK)](https://mat.unideb.hu/tantargy-felelosok) $\leftarrow$ **USEFUL**
 
 ## Mathematics
 Probably a repeat of the info that's available form the "Műszaki Alaptárgyi Tanszék"
