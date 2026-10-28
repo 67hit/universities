@@ -1,0 +1,4 @@
+- [syllabus source](https://vehicles.unideb.hu/sites/default/files/upload_documents/basic_natural_sciences.pdf)
+- [matek i](https://mat.unideb.hu/sites/default/files/inline-files/matematika_i._jarmumernok_bsc_nappali_2025.%20%C3%A9v.pdf)
+- [matek ii](https://mat.unideb.hu/sites/default/files/upload_documents/matematika_ii_jarmumernoki_bsc_n.pdf)
+- [matek iii](https://mat.unideb.hu/sites/default/files/upload_documents/matematika_iii_jarmumernok_bsc.pdf)
