@@ -1,0 +1,1 @@
+Page 2 of the program guide show three courses in mathematics, with descriptions further down in the document.
