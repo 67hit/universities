@@ -4,5 +4,5 @@
   - [Medical biophysics  2.](https://biofiz.semmelweis.hu/index.php?p=oktatas&mid=2&a=tantargy&id=590) $\rightarrow$ Előadások 
 ----
 - Head of the Department: Miklós KELLERMAYER
-- Departmental Curricular Offical: Daniel VERES (daniel.s.veres@gmail.com)
+- Departmental Curricular Official: Daniel VERES (daniel.s.veres@gmail.com)
   - [Staff - Dr. Dániel Sándor Veres](https://biofiz.semmelweis.hu/index.php?p=munkatarsak&mid=5&a=munkatars&id=37)
