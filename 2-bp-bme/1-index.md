@@ -1,1 +1,1 @@
-- [Current Students – Faculty of Transportation Engineering and Vehicle Engineering](https://transportation.bme.hu/bsc-programmes/current-students/)
+- [Faculty of Transportation Engineering and Vehicle Engineering](https://transportation.bme.hu/bsc-programmes/current-students/)
